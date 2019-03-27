@@ -1,4 +1,11 @@
 {
+  "name": "common",
+  "version": "0.0.1",
+  "description": "Crypt helper package",
+  "main": "src/index.js",
+  "author": "tegila",
+  "license": "ISC",
+
   "dependencies": {
     "tweetnacl": "^1.0.1",
     "tweetnacl-util": "^0.15.0"
